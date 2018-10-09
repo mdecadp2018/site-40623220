@@ -7,11 +7,19 @@
 </summary><content type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 
 
-&lt;h2&gt;課程內容&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第二週</title><link href="./2018-Fall-W2.html" rel="alternate"></link><published>2018-09-17T00:00:00+08:00</published><updated>2018-09-17T00:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-17:./2018-Fall-W2.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
+&lt;h2&gt;課程內容&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第三週</title><link href="./2018-Fall-W3.html" rel="alternate"></link><published>2018-09-24T00:00:00+08:00</published><updated>2018-09-24T00:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-24:./2018-Fall-W3.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 
 
-&lt;h2&gt;課程內容&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;中秋放假&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第二週</title><link href="./2018-Fall-W2.html" rel="alternate"></link><published>2018-09-17T00:00:00+08:00</published><updated>2018-09-17T00:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-17:./2018-Fall-W2.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;1.登入Github後到https://classroom.github.com/a/fGqXU9kO 領取其中作業&lt;/p&gt;
+&lt;p&gt;2.將倉儲的branches改為gh-pages &lt;/p&gt;
+&lt;p&gt;3.申請Onshape帳號後開始練習&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -27,4 +35,10 @@
 </summary><content type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 
 
-&lt;h2&gt;課程內容&lt;/h2&gt;</content><category term="2018Fall"></category></entry></feed>
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;登入自己的Github帳號後建立一個倉儲學號學號.github.io&lt;/p&gt;
+&lt;p&gt;1.利用git clone 將https://github.com/mdecourse/2018fall clone下來&lt;/p&gt;
+&lt;p&gt;2.利用git clone 將https://github.com/40623220/40623220.github.io clone下來&lt;/p&gt;
+&lt;p&gt;3.將2018fall中的資料全部拉到40623220.github.io中除了.git的檔案&lt;/p&gt;
+&lt;p&gt;4.使用git add .增加，再用git commit -m "名稱"提交，再用git push 推送&lt;/p&gt;
+&lt;p&gt;5.使用git config設定身分&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
