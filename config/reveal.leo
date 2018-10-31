@@ -24,17 +24,65 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>week1</vh>
-<v t="leo.20180827201621.12"><vh>學習內容</vh></v>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181031171102.1" a="E"><vh>week2</vh>
-<v t="leo.20181031171102.2"><vh>學習內容</vh></v>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20181031171107.1" a="E"><vh>wee3</vh>
-<v t="leo.20181031171107.2"><vh>學習內容</vh></v>
+<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20181031170520.1"><vh>快捷鍵</vh>
-<v t="leo.20181031170520.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20181031172728.1"><vh>week1</vh>
+<v t="leo.20181031172728.2" a="E"><vh>學習內容</vh>
+<v t="leo.20181031172728.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20181031172728.4" a="E"><vh>學習內容1</vh>
+<v t="leo.20181031172728.5"><vh>1-2</vh></v>
+</v>
+</v>
+<v t="leo.20181031172945.1"><vh>week2</vh>
+<v t="leo.20181031172945.2" a="E"><vh>學習內容</vh>
+<v t="leo.20181031172945.3"><vh>2-1</vh></v>
+</v>
+</v>
+<v t="leo.20181031172948.1"><vh>week3</vh>
+<v t="leo.20181031172948.2" a="E"><vh>學習內容</vh>
+<v t="leo.20181031172948.3"><vh>3-1</vh></v>
+</v>
+</v>
+<v t="leo.20181031174437.1"><vh>week4</vh>
+<v t="leo.20181031174437.2" a="E"><vh>學習內容</vh>
+<v t="leo.20181031174437.3"><vh>4-1</vh></v>
+</v>
+</v>
+<v t="leo.20181031174439.1" a="E"><vh>week5</vh>
+<v t="leo.20181031174439.2" a="E"><vh>學習內容</vh>
+<v t="leo.20181031174439.3"><vh>5-1</vh></v>
+</v>
+<v t="leo.20181031174439.4" a="E"><vh>學習內容1</vh>
+<v t="leo.20181031174439.5"><vh>5-2</vh></v>
+</v>
+</v>
+<v t="leo.20181031175530.1" a="E"><vh>week6</vh>
+<v t="leo.20181031175530.2" a="E"><vh>學習內容</vh>
+<v t="leo.20181031175530.3"><vh>6-1</vh></v>
+</v>
+</v>
+<v t="leo.20181031175531.1" a="E"><vh>week7</vh>
+<v t="leo.20181031175531.2" a="E"><vh>學習內容</vh>
+<v t="leo.20181031175531.3"><vh>7-1</vh></v>
+</v>
+</v>
+<v t="leo.20181031175534.1" a="E"><vh>week8</vh>
+<v t="leo.20181031175534.2" a="E"><vh>學習內容</vh>
+<v t="leo.20181031175534.3"><vh>8-1</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -122,7 +170,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 40623220 蔡崇廷 網際簡報
+<t tx="leo.20180827201621.10">## 2018Fall 40623220分組網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -143,20 +191,92 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># week1
+<t tx="leo.20180827201621.12"># 投影片快捷鍵
 
-登入自己的Github帳號後建立一個倉儲學號學號.github.io
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
-1.利用git clone 將https://github.com/mdecourse/2018fall clone下來
+</t>
+<t tx="leo.20180827201621.13">&lt;section&gt;
+@others
+&lt;/section&gt;
 
-2.利用git clone 將https://github.com/40623220/40623220.github.io clone下來
+</t>
+<t tx="leo.20180827201621.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-3.將2018fall中的資料全部拉到40623220.github.io中除了.git的檔案
 
-4.使用git add .增加，再用git commit -m "名稱"提交，再用git push 推送
 
-5.使用git config設定身分
+						
+</t>
+<t tx="leo.20180827201621.15"># 數學符號與方程式
 
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+</t>
+<t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+@language python
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+</t>
+<t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -252,59 +372,234 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181031170520.1">&lt;section data-markdown&gt;
+<t tx="leo.20181031172728.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181031172728.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181031170520.2"># 投影片快捷鍵
+<t tx="leo.20181031172728.3"># week1
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+* 1.登入自己的Github帳號後建立一個倉儲學號學號.github.io
+
+* 2.利用git clone 將https://github.com/mdecourse/2018fall clone下來
+
+* 3.利用git clone 將https://github.com/40623220/40623220.github.io clone下來
+
 
 </t>
-<t tx="leo.20181031171102.1">&lt;section data-markdown&gt;
+<t tx="leo.20181031172728.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181031171102.2"># week2
+<t tx="leo.20181031172728.5">* 4.將2018fall中資料拉到40623220.github.io中除.git檔
 
-登入Github後到https://classroom.github.com/a/fGqXU9kO 領取作業
+* 5.用git add .增加，用git commit -m "名稱"提交，用git push 推送
 
-將倉儲的branches改為gh-pages
-
-申請Onshape帳號後開始練習
-
-sharex的截圖與錄影
-
-如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌 
+* 6.使用git config設定身分</t>
+<t tx="leo.20181031172945.1">&lt;section&gt;
+@others
+&lt;/section&gt;
 
 </t>
-<t tx="leo.20181031171107.1">&lt;section data-markdown&gt;
+<t tx="leo.20181031172945.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181031171107.2"># week3
+<t tx="leo.20181031172945.3"># week2
+
+* 1.登入Github後到https://classroom.github.com/a/fGqXU9kO 領取作業
+
+* 2.將倉儲的branches改為gh-pages
+
+* 3.申請Onshape帳號後開始練習
+
+* 如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌 
+
+* sharex的截圖與錄影</t>
+<t tx="leo.20181031172948.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181031172948.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181031172948.3"># week3
 
 中秋放假
+</t>
+<t tx="leo.20181031174437.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181031174437.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181031174437.3"># week4
+
+* 建立 Onshape 帳號 
+
+* 學習Onshape的用法
+
+* 介紹 4 個基本特徵 (features)（擠出(extrude)，旋轉(revolve)，掃描(sweep)，和斷面混成(loaf)）
+
+* 針對既有草圖的模型 - 接續建立特徵
+
+* 現存公用模型 (public models) - 如何搜尋並復製到工作區 (workspace)</t>
+<t tx="leo.20181031174439.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181031174439.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181031174439.3"># week5
+
+* 簡介"設計意圖" (design intent)
+
+* 設定尺寸 (dimensions) 與約束 (constraints)
+
+* 草圖繪製練習
+
+* 運用與建立平面 (planes)
+
+* 建立圓角 (fillets) 與倒角 (chamfers)
+
+* 各種簡單的幾何形狀 (geometric shapes)
+</t>
+<t tx="leo.20181031174439.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181031174439.5">* Design Intent is the practice of developing your project’s objectives and requirements even before working on your design.
+
+* 設計意圖指在設計進行前, 必須完成之專案目的與需求確認
+
+* The more complex the geometry, the more we need to think about how we want to design the parts before just going ahead and making it.
+
+* 幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認</t>
+<t tx="leo.20181031175530.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181031175530.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181031175530.3"># week6
+
+* 如何升級最新的 CMSimfly 倉儲中的 flaskapp.py</t>
+<t tx="leo.20181031175531.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181031175531.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181031175531.3"># week7
+
+* 學習如果github出問題無法登入的話(原因是：網路裝置與資料庫故障)的處理方式
+
+* 虛擬或實體安裝的 Ubuntu, 可以透過 Fossil SCM 與 Stunnel 的結合, 建構能夠自行維護的 Fossil SCM 伺服主機
+</t>
+<t tx="leo.20181031175534.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181031175534.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181031175534.3"># week8
+
+* 1-7週的課程回顧
+
+* 了解執行電腦輔助設計專案為何需要使用 Git 與 Github?
+
+* 是否了解CMSimfly, Reveal 與 Pelican 分別提供那些功能
 
 </t>
 </tnodes>
