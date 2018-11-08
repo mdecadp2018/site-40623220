@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623220網誌</title><link href="https://mdecadp2018.github.io/site-40623220/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623220/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623220/blog/</id><updated>2018-10-29T00:00:00+08:00</updated><entry><title>2018 Fall 第八週</title><link href="https://mdecadp2018.github.io/site-40623220/blog/2018-Fall-W8.html" rel="alternate"></link><published>2018-10-29T00:00:00+08:00</published><updated>2018-10-29T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623220/blog/2018-Fall-W8.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623220網誌</title><link href="https://mdecadp2018.github.io/site-40623220/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623220/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623220/blog/</id><updated>2018-11-05T00:00:00+08:00</updated><entry><title>2018 Fall 第九週</title><link href="https://mdecadp2018.github.io/site-40623220/blog/2018-Fall-W9.html" rel="alternate"></link><published>2018-11-05T00:00:00+08:00</published><updated>2018-11-05T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:mdecadp2018.github.io,2018-11-05:/site-40623220/blog/2018-Fall-W9.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;1.期中自評&lt;/p&gt;
+&lt;p&gt;2.期末報告分組&lt;/p&gt;
+&lt;p&gt;3.說明如何利用 Github Classroom 進行期末分組專題倉儲的設定&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第八週</title><link href="https://mdecadp2018.github.io/site-40623220/blog/2018-Fall-W8.html" rel="alternate"></link><published>2018-10-29T00:00:00+08:00</published><updated>2018-10-29T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623220/blog/2018-Fall-W8.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 
 
@@ -42,14 +49,14 @@ A relation is a way in Onshape to constrain degrees of freedom between two Mates
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;學習要點&lt;/p&gt;
-&lt;p&gt;1.Using Boolean operations (布爾運算)
-Applying linear and circular patterning (應
+&lt;p&gt;1.Using Boolean operations (布爾運算)&lt;/p&gt;
+&lt;p&gt;2.Applying linear and circular patterning (應
 用線性和圓形圖案)&lt;/p&gt;
-&lt;p&gt;2.Applying mirror tool(應用鏡像工具)
-Assemblies in Onshape(Onshape中的裝配)
-An introduction to concurrent top-down and bottom-up designs (由上而下和由下而上設計簡介)&lt;/p&gt;
-&lt;p&gt;3.Creating a Multi-Part design in a Part Studio(在Part Studio中創建多部件設計)&lt;/p&gt;
-&lt;p&gt;4Multi-Part Modeling(多部分建模)
+&lt;p&gt;3.Applying mirror tool(應用鏡像工具)&lt;/p&gt;
+&lt;p&gt;4.Assemblies in Onshape(Onshape中的裝配)&lt;/p&gt;
+&lt;p&gt;5.An introduction to concurrent top-down and bottom-up designs (由上而下和由下而上設計簡介)&lt;/p&gt;
+&lt;p&gt;6.Creating a Multi-Part design in a Part Studio(在Part Studio中創建多部件設計)&lt;/p&gt;
+&lt;p&gt;Multi-Part Modeling(多部分建模)
 Unlike other CAD systems, you may make as many parts in a single Part Studio as you want. This technique is called Multi-Part Modeling and it’s very powerful because, as we’ve seen, you can make parts that highly depend on one another. &lt;/p&gt;
 &lt;p&gt;與其他CAD系統不同，您可以根據需要在單個Part Studio中創建任意數量的零件。
 這種技術稱為多部件建模，它非常強大，因為正如我們所見，您可以製造高度依賴
