@@ -4,32 +4,32 @@
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
-&lt;p&gt;學習要點5
-An introduction to engineering drawings(工程圖紙簡介)
-Creating drawing views, dimensioning, tolerancing, notes(創建圖紙視圖，尺寸標註，公差，筆記)
-Using formats/templates(使用格式/模板)
+&lt;p&gt;學習要點5&lt;/p&gt;
+&lt;p&gt;1.An introduction to engineering drawings(工程圖紙簡介)&lt;/p&gt;
+&lt;p&gt;2.Creating drawing views, dimensioning, tolerancing, notes(創建圖紙視圖，尺寸標註，公差，筆記)&lt;/p&gt;
+&lt;p&gt;3.Using formats/templates(使用格式/模板)
 Introducing GTOL/GD&amp;amp;T(介紹GTOL / GD＆T)&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第七週</title><link href="https://mdecadp2018.github.io/site-40623220/blog/2018-Fall-W7.html" rel="alternate"></link><published>2018-10-22T00:00:00+08:00</published><updated>2018-10-22T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623220/blog/2018-Fall-W7.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
-&lt;p&gt;學習要點4
-Lesson on degrees of freedom(關於自由度的課程)
-An introduction to assembly Mates(裝配的介紹)
-Mate Connectors(連接器)
-Manipulating part position with the triad(三合一操縱零件位置)
-Explaining Mates and Relations(配合的關係)
-Animating Mates(動畫配合)
-An introduction to Linked Documents(關聯文件的介紹)
-Applying limits to a Mate(對配合應用的限制)&lt;/p&gt;
-&lt;p&gt;Assembly and Mate Connector(裝配和配合連接器)
-For designing and manufacturing an assembly, it is important to know which parts go into the assembly, how many of each, how they are assembled, and how they should perform. &lt;/p&gt;
+&lt;p&gt;學習要點4&lt;/p&gt;
+&lt;p&gt;1.Lesson on degrees of freedom(關於自由度的課程)&lt;/p&gt;
+&lt;p&gt;2.An introduction to assembly Mates(裝配的介紹)&lt;/p&gt;
+&lt;p&gt;3.Mate Connectors(連接器)&lt;/p&gt;
+&lt;p&gt;4.Manipulating part position with the triad(三合一操縱零件位置)&lt;/p&gt;
+&lt;p&gt;5.Explaining Mates and Relations(配合的關係)&lt;/p&gt;
+&lt;p&gt;6.Animating Mates(動畫配合)&lt;/p&gt;
+&lt;p&gt;7.An introduction to Linked Documents(關聯文件的介紹)&lt;/p&gt;
+&lt;p&gt;8.Applying limits to a Mate(對配合應用的限制)&lt;/p&gt;
+&lt;p&gt;Assembly and Mate Connector(裝配和配合連接器)&lt;/p&gt;
+&lt;p&gt;For designing and manufacturing an assembly, it is important to know which parts go into the assembly, how many of each, how they are assembled, and how they should perform. &lt;/p&gt;
 &lt;p&gt;A Mate in Onshape fully describes how two parts will interact with each other by specifically controlling each degree of freedom through the use of things called Mate Connectors. You can think of a Mate Connector as a small, local coordinate system (an x, y, and z axis) for a joint between two parts. The Red line is the X-axis, the Green is the Y, and the Blue is the Z.&lt;/p&gt;
 &lt;p&gt;為了設計和製造組件，重要的是要知道哪些部件進入組件，每個部件中有多少，它們如
 何組裝以及它們應該如何執行。Onshape中的配合通過使用稱為配合連接器的東西，通
 過專門控制每個自由度來充分描述兩個部分如何相互作用。您可以將Mate連接器視為兩
-個部件之間的連接的小型局部坐標系（x，y和z軸）。紅線是X軸，綠色是Y，藍色是Z
- Animations(動畫)
+個部件之間的連接的小型局部坐標系（x，y和z軸）。紅線是X軸，綠色是Y，藍色是Z&lt;/p&gt;
+&lt;p&gt;Animations(動畫)
 Animations are a great way to view the motion of your Mate before accepting it. Onshape will automatically move the Mate in a way that will exercise the Degrees of Freedom. In a Revolute Mate the part will rotate, in a Slider Mate, the part will slide, in a Cylinder Mate, the part will slide and rotate, etc.&lt;/p&gt;
 &lt;p&gt;在接受動畫之前，動畫是查看伴侶動作的絕佳方式。 Onshape將以一種行使自由度的方
 式自動配合移動。在Revolute Mate中，零件將旋轉，在Slider Mate中，零件將滑動，
@@ -41,14 +41,15 @@ A relation is a way in Onshape to constrain degrees of freedom between two Mates
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
-&lt;p&gt;學習要點
-Using Boolean operations (布爾運算)
-Applying linear and circular patterning (應用線性和圓形圖案)
-Applying mirror tool(應用鏡像工具)
+&lt;p&gt;學習要點&lt;/p&gt;
+&lt;p&gt;1.Using Boolean operations (布爾運算)
+Applying linear and circular patterning (應
+用線性和圓形圖案)&lt;/p&gt;
+&lt;p&gt;2.Applying mirror tool(應用鏡像工具)
 Assemblies in Onshape(Onshape中的裝配)
-An introduction to concurrent top-down and bottom-up designs (由上而下和由下而上設計簡介)
-Creating a Multi-Part design in a Part Studio(在Part Studio中創建多部件設計)
-Multi-Part Modeling(多部分建模)
+An introduction to concurrent top-down and bottom-up designs (由上而下和由下而上設計簡介)&lt;/p&gt;
+&lt;p&gt;3.Creating a Multi-Part design in a Part Studio(在Part Studio中創建多部件設計)&lt;/p&gt;
+&lt;p&gt;4Multi-Part Modeling(多部分建模)
 Unlike other CAD systems, you may make as many parts in a single Part Studio as you want. This technique is called Multi-Part Modeling and it’s very powerful because, as we’ve seen, you can make parts that highly depend on one another. &lt;/p&gt;
 &lt;p&gt;與其他CAD系統不同，您可以根據需要在單個Part Studio中創建任意數量的零件。
 這種技術稱為多部件建模，它非常強大，因為正如我們所見，您可以製造高度依賴
