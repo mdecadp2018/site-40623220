@@ -24,20 +24,6 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
-</v>
-</v>
 <v t="leo.20181031172728.1"><vh>week1</vh>
 <v t="leo.20181031172728.2" a="E"><vh>學習內容</vh>
 <v t="leo.20181031172728.3"><vh>1-1</vh></v>
@@ -56,7 +42,7 @@
 <v t="leo.20181031172948.3"><vh>3-1</vh></v>
 </v>
 </v>
-<v t="leo.20181031174437.1"><vh>week4</vh>
+<v t="leo.20181031174437.1" a="E"><vh>week4</vh>
 <v t="leo.20181031174437.2" a="E"><vh>學習內容</vh>
 <v t="leo.20181031174437.3"><vh>4-1</vh></v>
 </v>
@@ -181,102 +167,6 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 [2018 Fall 分組網誌](./../blog/index.html)
 
 
-</t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180827201621.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -413,7 +303,9 @@ make.start()
 
 * 5.用git add .增加，用git commit -m "名稱"提交，用git push 推送
 
-* 6.使用git config設定身分</t>
+* 6.使用git config設定身分
+
+</t>
 <t tx="leo.20181031172945.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -440,7 +332,9 @@ make.start()
 
 * 如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌 
 
-* sharex的截圖與錄影</t>
+* sharex的截圖與錄影
+
+</t>
 <t tx="leo.20181031172948.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -487,7 +381,9 @@ make.start()
 
 * 針對既有草圖的模型 - 接續建立特徵
 
-* 現存公用模型 (public models) - 如何搜尋並復製到工作區 (workspace)</t>
+* 現存公用模型 (public models) - 如何搜尋並復製到工作區 (workspace)
+
+</t>
 <t tx="leo.20181031174439.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -535,7 +431,9 @@ make.start()
 
 * The more complex the geometry, the more we need to think about how we want to design the parts before just going ahead and making it.
 
-* 幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認</t>
+* 幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認
+
+</t>
 <t tx="leo.20181031175530.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -554,7 +452,18 @@ make.start()
 </t>
 <t tx="leo.20181031175530.3"># week6
 
-* 如何升級最新的 CMSimfly 倉儲中的 flaskapp.py</t>
+* 如何升級最新的 CMSimfly 倉儲中的 flaskapp.py
+
+* Using Boolean operations (布爾運算)
+
+* Applying linear and circular patterning (應
+用線性和圓形圖案)
+
+* Applying mirror tool(應用鏡像工具)
+
+* An introduction to concurrent top-down and bottom-up designs (由上而下和由下而上設計簡介)
+
+</t>
 <t tx="leo.20181031175531.1">&lt;section&gt;
 @others
 &lt;/section&gt;
