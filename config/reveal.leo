@@ -65,9 +65,14 @@
 <v t="leo.20181031175531.3"><vh>7-1</vh></v>
 </v>
 </v>
-<v t="leo.20181031175534.1" a="E"><vh>week8</vh>
+<v t="leo.20181031175534.1"><vh>week8</vh>
 <v t="leo.20181031175534.2" a="E"><vh>學習內容</vh>
 <v t="leo.20181031175534.3"><vh>8-1</vh></v>
+</v>
+</v>
+<v t="leo.20181108232459.1" a="E"><vh>week9</vh>
+<v t="leo.20181108232459.2" a="E"><vh>學習內容</vh>
+<v t="leo.20181108232459.3"><vh>9-1</vh></v>
 </v>
 </v>
 </v>
@@ -509,6 +514,32 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 * 了解執行電腦輔助設計專案為何需要使用 Git 與 Github?
 
 * 是否了解CMSimfly, Reveal 與 Pelican 分別提供那些功能
+
+</t>
+<t tx="leo.20181108232459.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108232459.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108232459.3"># week9
+
+* 期中自評
+
+* 期末報告分組
+
+* 說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+
 
 </t>
 </tnodes>
