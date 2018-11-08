@@ -1,15 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623220網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623220/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623220/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623220/blog/</id><updated>2018-10-22T00:00:00+08:00</updated><entry><title>2018 Fall 第七週</title><link href="https://mdecadp2018.github.io/site-40623220/blog/2018-Fall-W7.html" rel="alternate"></link><published>2018-10-22T00:00:00+08:00</published><updated>2018-10-22T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623220/blog/2018-Fall-W7.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623220網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623220/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623220/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623220/blog/</id><updated>2018-10-29T00:00:00+08:00</updated><entry><title>2018 Fall 第八週</title><link href="https://mdecadp2018.github.io/site-40623220/blog/2018-Fall-W8.html" rel="alternate"></link><published>2018-10-29T00:00:00+08:00</published><updated>2018-10-29T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623220/blog/2018-Fall-W8.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
-&lt;p&gt;Onshape練習&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第六週</title><link href="https://mdecadp2018.github.io/site-40623220/blog/2018-Fall-W6.html" rel="alternate"></link><published>2018-10-15T00:00:00+08:00</published><updated>2018-10-15T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623220/blog/2018-Fall-W6.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
+&lt;p&gt;學習要點5
+An introduction to engineering drawings(工程圖紙簡介)
+Creating drawing views, dimensioning, tolerancing, notes(創建圖紙視圖，尺寸標註，公差，筆記)
+Using formats/templates(使用格式/模板)
+Introducing GTOL/GD&amp;amp;T(介紹GTOL / GD＆T)&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第七週</title><link href="https://mdecadp2018.github.io/site-40623220/blog/2018-Fall-W7.html" rel="alternate"></link><published>2018-10-22T00:00:00+08:00</published><updated>2018-10-22T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623220/blog/2018-Fall-W7.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
-&lt;p&gt;Onshape練習&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第五週</title><link href="https://mdecadp2018.github.io/site-40623220/blog/2018-Fall-W5.html" rel="alternate"></link><published>2018-10-08T00:00:00+08:00</published><updated>2018-10-08T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623220/blog/2018-Fall-W5.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
+&lt;p&gt;學習要點4
+Lesson on degrees of freedom(關於自由度的課程)
+An introduction to assembly Mates(裝配的介紹)
+Mate Connectors(連接器)
+Manipulating part position with the triad(三合一操縱零件位置)
+Explaining Mates and Relations(配合的關係)
+Animating Mates(動畫配合)
+An introduction to Linked Documents(關聯文件的介紹)
+Applying limits to a Mate(對配合應用的限制)&lt;/p&gt;
+&lt;p&gt;Assembly and Mate Connector(裝配和配合連接器)
+For designing and manufacturing an assembly, it is important to know which parts go into the assembly, how many of each, how they are assembled, and how they should perform. &lt;/p&gt;
+&lt;p&gt;A Mate in Onshape fully describes how two parts will interact with each other by specifically controlling each degree of freedom through the use of things called Mate Connectors. You can think of a Mate Connector as a small, local coordinate system (an x, y, and z axis) for a joint between two parts. The Red line is the X-axis, the Green is the Y, and the Blue is the Z.&lt;/p&gt;
+&lt;p&gt;為了設計和製造組件，重要的是要知道哪些部件進入組件，每個部件中有多少，它們如
+何組裝以及它們應該如何執行。Onshape中的配合通過使用稱為配合連接器的東西，通
+過專門控制每個自由度來充分描述兩個部分如何相互作用。您可以將Mate連接器視為兩
+個部件之間的連接的小型局部坐標系（x，y和z軸）。紅線是X軸，綠色是Y，藍色是Z
+ Animations(動畫)
+Animations are a great way to view the motion of your Mate before accepting it. Onshape will automatically move the Mate in a way that will exercise the Degrees of Freedom. In a Revolute Mate the part will rotate, in a Slider Mate, the part will slide, in a Cylinder Mate, the part will slide and rotate, etc.&lt;/p&gt;
+&lt;p&gt;在接受動畫之前，動畫是查看伴侶動作的絕佳方式。 Onshape將以一種行使自由度的方
+式自動配合移動。在Revolute Mate中，零件將旋轉，在Slider Mate中，零件將滑動，
+在Cylinder Mate中，零件將滑動並旋轉等。
+Relations and Limits(關係和限制)
+A relation is a way in Onshape to constrain degrees of freedom between two Mates. Where a Mate controls how many degrees of freedom a pair of parts has between them, a Relation can control how those degrees of freedom move with respect to each other. There are 4 types of Relations in Onshape: Gear, Rack and Pinion, Screw, and Linear. These relations rely on preexisting Mates to define the type of motion that will occur between two parts.&lt;/p&gt;
+&lt;p&gt;關係是在Onshape中限制兩個配合之間自由度的一種方式。在Mate控制一對部件之間有多少自由度的情況下，一個關係可以控制這些自由度相對於彼此的移動方式。在Onshape中有4種類型的關係：齒輪，齒條和小齒輪，螺釘和線性。這些關係依賴於預先存在的配合來定義將在兩個部分之間發生的運動類型。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第六週</title><link href="https://mdecadp2018.github.io/site-40623220/blog/2018-Fall-W6.html" rel="alternate"></link><published>2018-10-15T00:00:00+08:00</published><updated>2018-10-15T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623220/blog/2018-Fall-W6.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;學習要點
+Using Boolean operations (布爾運算)
+Applying linear and circular patterning (應用線性和圓形圖案)
+Applying mirror tool(應用鏡像工具)
+Assemblies in Onshape(Onshape中的裝配)
+An introduction to concurrent top-down and bottom-up designs (由上而下和由下而上設計簡介)
+Creating a Multi-Part design in a Part Studio(在Part Studio中創建多部件設計)
+Multi-Part Modeling(多部分建模)
+Unlike other CAD systems, you may make as many parts in a single Part Studio as you want. This technique is called Multi-Part Modeling and it’s very powerful because, as we’ve seen, you can make parts that highly depend on one another. &lt;/p&gt;
+&lt;p&gt;與其他CAD系統不同，您可以根據需要在單個Part Studio中創建任意數量的零件。
+這種技術稱為多部件建模，它非常強大，因為正如我們所見，您可以製造高度依賴
+彼此的部件。
+Buttom-Up Design(Buttom-Up設計)
+Bottom-Up Design is when a product is designed by creating sketches, then features, then parts (often one per Part Studio), and then assemblies. In this approach, the geometry is created starting with the lower level entities (like 2D lines and circles) up the hierarchy to the highest level assembly (such as the final product being built).&lt;/p&gt;
+&lt;p&gt;由下而上設計是指通過創建草圖，然後是要素，然後是零件（通常每個零件工作室一個），
+然後是裝配體來設計產品。在此方法中，幾何體從較低級別的實體（如2D線和圓圈）開始
+創建，從層次結構向上到最高級別的程序集（例如正在構建的最終產品）。
+Top-Down Design(由上而下的設計)
+Top-Down Design is when the shape of an overall product is sketched first, and then different regions of that sketch are used to create the lower level parts and their features. Top-Down is a more intuitive way to approach a design because typically we, as designers, envision the final product first, then as time goes on, we refine the concept into finer and finer detail.&lt;/p&gt;
+&lt;p&gt;由上而下設計是指首先繪製整個產品的形狀，然後使用該草圖的不同區域來創建較低級別的部件及其特徵。由上而下是一種更直觀的設計方法，因為通常我們作為設計師首先設想最終產品，然後隨著時間的推移，我們將概念細化為更精細和更精細的細節。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第五週</title><link href="https://mdecadp2018.github.io/site-40623220/blog/2018-Fall-W5.html" rel="alternate"></link><published>2018-10-08T00:00:00+08:00</published><updated>2018-10-08T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623220/blog/2018-Fall-W5.html</id><summary type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall &lt;/p&gt;
 
 
