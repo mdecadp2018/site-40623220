@@ -42,37 +42,44 @@
 <v t="leo.20181031172948.3"><vh>3-1</vh></v>
 </v>
 </v>
-<v t="leo.20181031174437.1" a="E"><vh>week4</vh>
+<v t="leo.20181031174437.1"><vh>week4</vh>
 <v t="leo.20181031174437.2" a="E"><vh>學習內容</vh>
 <v t="leo.20181031174437.3"><vh>4-1</vh></v>
 </v>
 </v>
-<v t="leo.20181031174439.1" a="E"><vh>week5</vh>
+<v t="leo.20181031174439.1"><vh>week5</vh>
 <v t="leo.20181031174439.2" a="E"><vh>學習內容</vh>
 <v t="leo.20181031174439.3"><vh>5-1</vh></v>
 </v>
-<v t="leo.20181031174439.4" a="E"><vh>學習內容1</vh>
-<v t="leo.20181031174439.5"><vh>5-2</vh></v>
 </v>
-</v>
-<v t="leo.20181031175530.1" a="E"><vh>week6</vh>
+<v t="leo.20181031175530.1"><vh>week6</vh>
 <v t="leo.20181031175530.2" a="E"><vh>學習內容</vh>
 <v t="leo.20181031175530.3"><vh>6-1</vh></v>
 </v>
 </v>
-<v t="leo.20181031175531.1" a="E"><vh>week7</vh>
+<v t="leo.20181031175531.1"><vh>week7</vh>
 <v t="leo.20181031175531.2" a="E"><vh>學習內容</vh>
 <v t="leo.20181031175531.3"><vh>7-1</vh></v>
 </v>
 </v>
-<v t="leo.20181031175534.1" a="E"><vh>week8</vh>
+<v t="leo.20181031175534.1"><vh>week8</vh>
 <v t="leo.20181031175534.2" a="E"><vh>學習內容</vh>
 <v t="leo.20181031175534.3"><vh>8-1</vh></v>
 </v>
 </v>
-<v t="leo.20181108232459.1" a="E"><vh>week9</vh>
+<v t="leo.20181108232459.1"><vh>week9</vh>
 <v t="leo.20181108232459.2" a="E"><vh>學習內容</vh>
 <v t="leo.20181108232459.3"><vh>9-1</vh></v>
+</v>
+</v>
+<v t="leo.20190105203343.1"><vh>week10</vh>
+<v t="leo.20190105203343.2" a="E"><vh>學習內容</vh>
+<v t="leo.20190105203343.3"><vh>10-1</vh></v>
+</v>
+</v>
+<v t="leo.20190105203347.1" a="E"><vh>week11</vh>
+<v t="leo.20190105203347.2" a="E"><vh>學習內容</vh>
+<v t="leo.20190105203347.3"><vh>11-1</vh></v>
 </v>
 </v>
 </v>
@@ -382,11 +389,6 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 
 * 學習Onshape的用法
 
-* 介紹 4 個基本特徵 (features)（擠出(extrude)，旋轉(revolve)，掃描(sweep)，和斷面混成(loaf)）
-
-* 針對既有草圖的模型 - 接續建立特徵
-
-* 現存公用模型 (public models) - 如何搜尋並復製到工作區 (workspace)
 
 </t>
 <t tx="leo.20181031174439.1">&lt;section&gt;
@@ -413,26 +415,6 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20181031174439.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181031174439.5">* Design Intent is the practice of developing your project’s objectives and requirements even before working on your design.
-
-* 設計意圖指在設計進行前, 必須完成之專案目的與需求確認
-
-* The more complex the geometry, the more we need to think about how we want to design the parts before just going ahead and making it.
-
-* 幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認
-
-</t>
 <t tx="leo.20181031175530.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -453,14 +435,13 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 
 * 如何升級最新的 CMSimfly 倉儲中的 flaskapp.py
 
-* Using Boolean operations (布爾運算)
 
-* Applying linear and circular patterning (應
-用線性和圓形圖案)
 
-* Applying mirror tool(應用鏡像工具)
 
-* An introduction to concurrent top-down and bottom-up designs (由上而下和由下而上設計簡介)
+
+
+
+
 
 </t>
 <t tx="leo.20181031175531.1">&lt;section&gt;
@@ -533,6 +514,57 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 * 期末報告分組
 
 * 說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+
+
+</t>
+<t tx="leo.20190105203343.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190105203343.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190105203343.3"># week10
+
+* 下載新版的p37,修改 stop.bat
+
+* Ubuntu 18.04 以 uwsgi 配置 CMSimfly
+
+
+
+</t>
+<t tx="leo.20190105203347.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190105203347.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190105203347.3"># week11
+
+* 如何利用雲端服務建立網際輔助設計網站?如何將 Onshape 零組件輸入 V-rep
+
+* 
+
+* 
 
 
 </t>
