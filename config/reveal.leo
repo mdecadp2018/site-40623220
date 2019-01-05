@@ -77,9 +77,29 @@
 <v t="leo.20190105203343.3"><vh>10-1</vh></v>
 </v>
 </v>
-<v t="leo.20190105203347.1" a="E"><vh>week11</vh>
+<v t="leo.20190105203347.1"><vh>week11</vh>
 <v t="leo.20190105203347.2" a="E"><vh>學習內容</vh>
 <v t="leo.20190105203347.3"><vh>11-1</vh></v>
+</v>
+</v>
+<v t="leo.20190105221433.1"><vh>week12</vh>
+<v t="leo.20190105221433.2" a="E"><vh>學習內容</vh>
+<v t="leo.20190105221433.3"><vh>12-1</vh></v>
+</v>
+</v>
+<v t="leo.20190105221435.1"><vh>week13</vh>
+<v t="leo.20190105221435.2" a="E"><vh>學習內容</vh>
+<v t="leo.20190105221435.3"><vh>13-1</vh></v>
+</v>
+</v>
+<v t="leo.20190105221437.1"><vh>week14</vh>
+<v t="leo.20190105221437.2" a="E"><vh>學習內容</vh>
+<v t="leo.20190105221437.3"><vh>14-1</vh></v>
+</v>
+</v>
+<v t="leo.20190105221851.1" a="E"><vh>week15-17</vh>
+<v t="leo.20190105221851.2" a="E"><vh>學習內容</vh>
+<v t="leo.20190105221851.3"><vh>15-17</vh></v>
 </v>
 </v>
 </v>
@@ -560,11 +580,102 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190105203347.3"># week11
 
-* 如何利用雲端服務建立網際輔助設計網站?如何將 Onshape 零組件輸入 V-rep
+* 如何利用雲端服務建立網際輔助設計網站?
 
-* 
+* 嘗試利用 Heroku 的免費服務建立各組的網際輔助設計網站.
 
-* 
+
+</t>
+<t tx="leo.20190105221433.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190105221433.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190105221433.3"># week12
+
+* 如何將 Onshape 零組件輸入 V-rep
+
+
+</t>
+<t tx="leo.20190105221435.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190105221435.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190105221435.3"># week13
+
+* 各組討論後將個組的網站統一格式
+
+
+
+</t>
+<t tx="leo.20190105221437.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190105221437.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190105221437.3"># week14
+
+* 結合 Pandoc 與 MikTeX, 可將 Markdown 資料轉換為 html 與 pdf 或 epub 格式.
+
+
+
+
+</t>
+<t tx="leo.20190105221851.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190105221851.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190105221851.3"># week15-17
+
+* 各組的分組報告轉成PDF放置網站
+
+
 
 
 </t>
