@@ -65,7 +65,7 @@
 <v t="leo.20181031175531.3"><vh>7-1</vh></v>
 </v>
 </v>
-<v t="leo.20181031175534.1"><vh>week8</vh>
+<v t="leo.20181031175534.1" a="E"><vh>week8</vh>
 <v t="leo.20181031175534.2" a="E"><vh>學習內容</vh>
 <v t="leo.20181031175534.3"><vh>8-1</vh></v>
 </v>
@@ -407,17 +407,11 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181031174439.3"># week5
 
-* 簡介"設計意圖" (design intent)
+* Pyslvs 電腦輔助機構模擬與合成套件介紹
 
-* 設定尺寸 (dimensions) 與約束 (constraints)
+* 找尋期末組員和從八個題目中選一個來做為期末報告
 
-* 草圖繪製練習
 
-* 運用與建立平面 (planes)
-
-* 建立圓角 (fillets) 與倒角 (chamfers)
-
-* 各種簡單的幾何形狀 (geometric shapes)
 </t>
 <t tx="leo.20181031174439.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
