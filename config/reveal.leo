@@ -72,34 +72,29 @@
 <v t="leo.20181108232459.3"><vh>9-1</vh></v>
 </v>
 </v>
-<v t="leo.20190105203343.1"><vh>week10</vh>
+<v t="leo.20190105203343.1" a="E"><vh>week10-11</vh>
 <v t="leo.20190105203343.2" a="E"><vh>學習內容</vh>
-<v t="leo.20190105203343.3"><vh>10-1</vh></v>
+<v t="leo.20190105203343.3"><vh>10-11</vh></v>
 </v>
 </v>
-<v t="leo.20190105203347.1"><vh>week11</vh>
-<v t="leo.20190105203347.2" a="E"><vh>學習內容</vh>
-<v t="leo.20190105203347.3"><vh>11-1</vh></v>
-</v>
-</v>
-<v t="leo.20190105221433.1"><vh>week12</vh>
+<v t="leo.20190105221433.1"><vh>week12-14</vh>
 <v t="leo.20190105221433.2" a="E"><vh>學習內容</vh>
 <v t="leo.20190105221433.3"><vh>12-1</vh></v>
-</v>
-</v>
-<v t="leo.20190105221435.1"><vh>week13</vh>
-<v t="leo.20190105221435.2" a="E"><vh>學習內容</vh>
-<v t="leo.20190105221435.3"><vh>13-1</vh></v>
-</v>
-</v>
-<v t="leo.20190105221437.1"><vh>week14</vh>
-<v t="leo.20190105221437.2" a="E"><vh>學習內容</vh>
-<v t="leo.20190105221437.3"><vh>14-1</vh></v>
 </v>
 </v>
 <v t="leo.20190105221851.1" a="E"><vh>week15-17</vh>
 <v t="leo.20190105221851.2" a="E"><vh>學習內容</vh>
 <v t="leo.20190105221851.3"><vh>15-17</vh></v>
+</v>
+</v>
+<v t="leo.20190106132219.1"><vh>學習心得</vh>
+<v t="leo.20190106132219.2" a="E"><vh>學習心得</vh>
+<v t="leo.20190106132219.3"><vh>學習心得</vh></v>
+</v>
+</v>
+<v t="leo.20190106132222.1"><vh>自評成績</vh>
+<v t="leo.20190106132222.2" a="E"><vh>自評成績</vh>
+<v t="leo.20190106132222.3"><vh>15-17</vh></v>
 </v>
 </v>
 </v>
@@ -196,7 +191,7 @@ vertical: body pane on the botton</t>
 Created by [蔡崇廷](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall 個人網誌](./../blog/index.html)
 
 
 </t>
@@ -553,36 +548,16 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190105203343.3"># week10
+<t tx="leo.20190105203343.3"># week10-11
 
 * 下載新版的p37,修改 stop.bat
 
 * Ubuntu 18.04 以 uwsgi 配置 CMSimfly
 
-
-
-</t>
-<t tx="leo.20190105203347.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190105203347.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190105203347.3"># week11
-
 * 如何利用雲端服務建立網際輔助設計網站?
 
 * 嘗試利用 Heroku 的免費服務建立各組的網際輔助設計網站.
+
 
 
 </t>
@@ -602,55 +577,13 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190105221433.3"># week12
+<t tx="leo.20190105221433.3"># week12-14
 
 * 如何將 Onshape 零組件輸入 V-rep
 
-
-</t>
-<t tx="leo.20190105221435.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190105221435.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190105221435.3"># week13
-
 * 各組討論後將個組的網站統一格式
 
-
-
-</t>
-<t tx="leo.20190105221437.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190105221437.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190105221437.3"># week14
-
 * 結合 Pandoc 與 MikTeX, 可將 Markdown 資料轉換為 html 與 pdf 或 epub 格式.
-
 
 
 
@@ -674,6 +607,54 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 <t tx="leo.20190105221851.3"># week15-17
 
 * 各組的分組報告轉成PDF放置網站
+
+
+
+
+</t>
+<t tx="leo.20190106132219.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190106132219.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106132219.3"># 學習心得
+
+* 這次的東西有些跟一年級的時候做得有是差不多但是還是會忘記所以還是要去熟悉野學到了如何使用Onshape來會圖與共享圖檔讓整個報告更好的協同。
+
+
+
+
+</t>
+<t tx="leo.20190106132222.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190106132222.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106132222.3"># 自評成績
+
+75
 
 
 
