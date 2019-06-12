@@ -144,7 +144,7 @@ vertical: body pane on the botton</t>
 ### 協同產品設計實習期末投影片
 
 &lt;small&gt;
-Created by [蔡崇廷](http://lab.kmol.info/)
+Created by [40623220](http://lab.kmol.info/)
 &lt;/small&gt;
 
 
@@ -282,7 +282,9 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181031172728.5">2
 
-&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/f8z_zP6t47k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/f8z_zP6t47k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181031172945.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -350,7 +352,9 @@ V-rep 模擬(20%) 20分
 </t>
 <t tx="leo.20190612144242.2">3
 
-&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/6kT7aJPt-qc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/6kT7aJPt-qc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612144244.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -364,7 +368,9 @@ V-rep 模擬(20%) 20分
 </t>
 <t tx="leo.20190612144244.2">4
 
-&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/l1hvV8XJS6Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/l1hvV8XJS6Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612144245.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -378,7 +384,9 @@ V-rep 模擬(20%) 20分
 </t>
 <t tx="leo.20190612144245.2">5
 
-&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/ocVKuLKiTPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/ocVKuLKiTPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190612145027.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -392,6 +400,8 @@ V-rep 模擬(20%) 20分
 </t>
 <t tx="leo.20190612145027.2">v-rep檔案
 
-https://github.com/mdecadp2018/site-40623220/blob/gh-pages/bg2.ttt</t>
+https://github.com/mdecadp2018/site-40623220/blob/gh-pages/bg2.ttt
+
+</t>
 </tnodes>
 </leo_file>
