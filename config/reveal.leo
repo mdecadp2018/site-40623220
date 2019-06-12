@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,87 +10,44 @@
 <v t="leo.20180827201556.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180827201556.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180827201621.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180827201621.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180827201621.4" a="E"><vh>html</vh>
+<v t="leo.20180827201621.1"><vh>編輯 reveal</vh>
+<v t="leo.20180827201621.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180827201621.3"><vh>@clean index.html</vh>
+<v t="leo.20180827201621.4"><vh>html</vh>
 <v t="leo.20180827201621.5"><vh>head</vh></v>
-<v t="leo.20180827201621.6" a="E"><vh>body</vh>
-<v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.6"><vh>body</vh>
+<v t="leo.20180827201621.7"><vh>reveal div</vh>
+<v t="leo.20180827201621.8"><vh>slides div</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181031172728.1"><vh>week1</vh>
-<v t="leo.20181031172728.2" a="E"><vh>學習內容</vh>
+<v t="leo.20181031172728.1"><vh>手足球</vh>
+<v t="leo.20181031172728.2"><vh>學習內容</vh>
 <v t="leo.20181031172728.3"><vh>1-1</vh></v>
 </v>
-<v t="leo.20181031172728.4" a="E"><vh>學習內容1</vh>
+<v t="leo.20181031172728.4"><vh>學習內容1</vh>
 <v t="leo.20181031172728.5"><vh>1-2</vh></v>
 </v>
+<v t="leo.20190612144242.1"><vh>學習內容2</vh>
+<v t="leo.20190612144242.2"><vh>1-3</vh></v>
 </v>
-<v t="leo.20181031172945.1"><vh>week2</vh>
-<v t="leo.20181031172945.2" a="E"><vh>學習內容</vh>
+<v t="leo.20190612144244.1"><vh>學習內容3</vh>
+<v t="leo.20190612144244.2"><vh>1-4</vh></v>
+</v>
+<v t="leo.20190612144245.1"><vh>學習內容4</vh>
+<v t="leo.20190612144245.2"><vh>1-5</vh></v>
+</v>
+<v t="leo.20190612145027.1"><vh>學習內容5</vh>
+<v t="leo.20190612145027.2"><vh>1-6</vh></v>
+</v>
+</v>
+<v t="leo.20181031172945.1"><vh>倉儲推送紀錄</vh>
+<v t="leo.20181031172945.2"><vh>學習內容</vh>
 <v t="leo.20181031172945.3"><vh>2-1</vh></v>
 </v>
 </v>
-<v t="leo.20181031172948.1"><vh>week3</vh>
-<v t="leo.20181031172948.2" a="E"><vh>學習內容</vh>
-<v t="leo.20181031172948.3"><vh>3-1</vh></v>
-</v>
-</v>
-<v t="leo.20181031174437.1"><vh>week4</vh>
-<v t="leo.20181031174437.2" a="E"><vh>學習內容</vh>
-<v t="leo.20181031174437.3"><vh>4-1</vh></v>
-</v>
-</v>
-<v t="leo.20181031174439.1"><vh>week5</vh>
-<v t="leo.20181031174439.2" a="E"><vh>學習內容</vh>
-<v t="leo.20181031174439.3"><vh>5-1</vh></v>
-</v>
-</v>
-<v t="leo.20181031175530.1" a="E"><vh>week6</vh>
-<v t="leo.20181031175530.2" a="E"><vh>學習內容</vh>
-<v t="leo.20181031175530.3"><vh>6-1</vh></v>
-</v>
-</v>
-<v t="leo.20181031175531.1" a="E"><vh>week7</vh>
-<v t="leo.20181031175531.2" a="E"><vh>學習內容</vh>
-<v t="leo.20181031175531.3"><vh>7-1</vh></v>
-</v>
-</v>
-<v t="leo.20181031175534.1" a="E"><vh>week8</vh>
-<v t="leo.20181031175534.2" a="E"><vh>學習內容</vh>
-<v t="leo.20181031175534.3"><vh>8-1</vh></v>
-</v>
-</v>
-<v t="leo.20181108232459.1" a="E"><vh>week9</vh>
-<v t="leo.20181108232459.2" a="E"><vh>學習內容</vh>
-<v t="leo.20181108232459.3"><vh>9-1</vh></v>
-</v>
-</v>
-<v t="leo.20190105203343.1" a="E"><vh>week10-11</vh>
-<v t="leo.20190105203343.2" a="E"><vh>學習內容</vh>
-<v t="leo.20190105203343.3"><vh>10-11</vh></v>
-</v>
-</v>
-<v t="leo.20190105221433.1" a="E"><vh>week12-14</vh>
-<v t="leo.20190105221433.2" a="E"><vh>學習內容</vh>
-<v t="leo.20190105221433.3"><vh>12-1</vh></v>
-</v>
-</v>
-<v t="leo.20190105221851.1" a="E"><vh>week15-17</vh>
-<v t="leo.20190105221851.2" a="E"><vh>學習內容</vh>
-<v t="leo.20190105221851.3"><vh>15-17</vh></v>
-</v>
-</v>
-<v t="leo.20190106132219.1" a="E"><vh>學習心得</vh>
-<v t="leo.20190106132219.2" a="E"><vh>學習心得</vh>
-<v t="leo.20190106132219.3"><vh>學習心得</vh></v>
-</v>
-</v>
 <v t="leo.20190106132222.1"><vh>自評成績</vh>
-<v t="leo.20190106132222.2" a="E"><vh>自評成績</vh>
+<v t="leo.20190106132222.2"><vh>自評成績</vh>
 <v t="leo.20190106132222.3"><vh>15-17</vh></v>
 </v>
 </v>
@@ -183,15 +137,16 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 40623220分組網際簡報
+<t tx="leo.20180827201621.10">## 2019 SPRING 投影片
 
-### 虎科大機械設計工程系
+## 虎科大機械設計工程系
+
+### 協同產品設計實習期末投影片
 
 &lt;small&gt;
 Created by [蔡崇廷](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 個人網誌](./../blog/index.html)
 
 
 </t>
@@ -305,13 +260,12 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181031172728.3"># week1
+<t tx="leo.20181031172728.3">## 手足球人對人過程
+1
 
-* 1.登入自己的Github帳號後建立一個倉儲學號學號.github.io
+&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/2Ufj8QCsgBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-* 2.利用git clone 將https://github.com/mdecourse/2018fall clone下來
 
-* 3.利用git clone 將https://github.com/40623220/40623220.github.io clone下來
 
 
 </t>
@@ -326,13 +280,9 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181031172728.5">* 4.將2018fall中資料拉到40623220.github.io中除.git檔
+<t tx="leo.20181031172728.5">2
 
-* 5.用git add .增加，用git commit -m "名稱"提交，用git push 推送
-
-* 6.使用git config設定身分
-
-</t>
+&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/f8z_zP6t47k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181031172945.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -349,291 +299,9 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181031172945.3"># week2
+<t tx="leo.20181031172945.3">## 倉儲推送紀錄
 
-* 1.登入Github後到https://classroom.github.com/a/fGqXU9kO 領取作業
-
-* 2.將倉儲的branches改為gh-pages
-
-* 3.申請Onshape帳號後開始練習
-
-* 如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌 
-
-* sharex的截圖與錄影
-
-</t>
-<t tx="leo.20181031172948.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181031172948.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181031172948.3"># week3
-
-中秋放假
-</t>
-<t tx="leo.20181031174437.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181031174437.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181031174437.3"># week4
-
-* 建立 Onshape 帳號 
-
-* 學習Onshape的用法
-
-
-</t>
-<t tx="leo.20181031174439.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181031174439.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181031174439.3"># week5
-
-* Pyslvs 電腦輔助機構模擬與合成套件介紹
-
-* 找尋期末組員和從八個題目中選一個來做為期末報告
-
-
-</t>
-<t tx="leo.20181031175530.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181031175530.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181031175530.3"># week6
-
-* 如何升級最新的 CMSimfly 倉儲中的 flaskapp.py
-
-
-
-
-
-
-
-
-
-</t>
-<t tx="leo.20181031175531.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181031175531.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181031175531.3"># week7
-
-* 學習如果github出問題無法登入的話(原因是：網路裝置與資料庫故障)的處理方式
-
-
-</t>
-<t tx="leo.20181031175534.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181031175534.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181031175534.3"># week8
-
-* 1-7週的課程回顧
-
-* 了解執行電腦輔助設計專案為何需要使用 Git 與 Github?
-
-* 是否了解CMSimfly, Reveal 與 Pelican 分別提供那些功能
-
-</t>
-<t tx="leo.20181108232459.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181108232459.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181108232459.3"># week9
-
-* 期中自評
-
-* 期末報告分組
-
-* 說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
-
-
-</t>
-<t tx="leo.20190105203343.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190105203343.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190105203343.3"># week10-11
-
-* 下載新版的p37,修改 stop.bat
-
-* Ubuntu 18.04 以 uwsgi 配置 CMSimfly
-
-* 如何利用雲端服務建立網際輔助設計網站?
-
-.
-
-
-
-</t>
-<t tx="leo.20190105221433.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190105221433.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190105221433.3"># week12-14
-
-* 如何將 Onshape 零組件輸入 V-rep
-
-* 各組討論後將各組的網站統一格式
-
-* 結合 Pandoc 與 MikTeX, 可將 Markdown 資料轉換為 html 與 pdf 或 epub 格式.
-
-
-
-</t>
-<t tx="leo.20190105221851.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190105221851.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190105221851.3"># week15-17
-
-* 各組的分組報告轉成PDF放置網站
-
-
-
-
-</t>
-<t tx="leo.20190106132219.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190106132219.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190106132219.3"># 學習心得
-
-* 這次的東西有些跟一年級的時候做得有是差不多但是還是會忘記所以還是要去熟悉也學到了如何使用Onshape來繪圖與共享圖檔讓整個報告更好的協同。
-
-
-
+* https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g2/graphs/contributors
 
 </t>
 <t tx="leo.20190106132222.1">&lt;section&gt;
@@ -652,13 +320,78 @@ Created by [蔡崇廷](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190106132222.3"># 自評成績
+<t tx="leo.20190106132222.3">### 自評
 
-75
+學員出席(20%) 20分
 
+Github 倉儲管理(20%) 20分
+
+Onshape 協同操作(20%) 0分
+
+V-rep 模擬(20%) 20分
+
+程式開發(20%) 0分
+
+總分:60分
 
 
 
 </t>
+<t tx="leo.20190612144242.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612144242.2">3
+
+&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/6kT7aJPt-qc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612144244.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612144244.2">4
+
+&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/l1hvV8XJS6Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612144245.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612144245.2">5
+
+&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/ocVKuLKiTPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612145027.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612145027.2">v-rep檔案
+
+https://github.com/mdecadp2018/site-40623220/blob/gh-pages/bg2.ttt</t>
 </tnodes>
 </leo_file>
