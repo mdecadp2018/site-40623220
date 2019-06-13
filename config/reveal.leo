@@ -404,13 +404,9 @@ V-rep 模擬(20%) 11分
 
 						
 </t>
-<t tx="leo.20190612145027.2">v-rep檔案
+<t tx="leo.20190612145027.2">[v-rep檔案](https://github.com/mdecadp2018/site-40623220/blob/gh-pages/bg2.ttt)
 
-https://github.com/mdecadp2018/site-40623220/blob/gh-pages/bg2.ttt
-
-程式碼
-
-https://mdecadp2018.github.io/site-40623220/content/%E6%89%8B%E8%B6%B3%E7%90%83.html
+[程式碼](https://mdecadp2018.github.io/site-40623220/content/%E6%89%8B%E8%B6%B3%E7%90%83.html)
 
 </t>
 </tnodes>
