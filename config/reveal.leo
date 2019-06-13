@@ -305,6 +305,8 @@ Created by [40623220](http://lab.kmol.info/)
 
 * https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g2/graphs/contributors
 
+* https://github.com/scrum-1/cd2019b/graphs/contributors
+
 </t>
 <t tx="leo.20190106132222.1">&lt;section&gt;
 @others
@@ -328,13 +330,11 @@ Created by [40623220](http://lab.kmol.info/)
 
 Github 倉儲管理(20%) 20分
 
-Onshape 協同操作(20%) 0分
+V-rep 模擬(20%) 11分
 
-V-rep 模擬(20%) 20分
+程式開發(20%) 11分
 
-程式開發(20%) 0分
-
-總分:60分
+總分:62分
 
 
 
@@ -402,6 +402,8 @@ V-rep 模擬(20%) 20分
 
 https://github.com/mdecadp2018/site-40623220/blob/gh-pages/bg2.ttt
 
-</t>
+程式碼
+
+https://mdecadp2018.github.io/site-40623220/content/%E6%89%8B%E8%B6%B3%E7%90%83.html</t>
 </tnodes>
 </leo_file>
