@@ -144,10 +144,12 @@ vertical: body pane on the botton</t>
 ### 協同產品設計實習期末投影片
 
 &lt;small&gt;
-Created by [40623220](http://lab.kmol.info/)
+Created by [40623220](https://mdecadp2018.github.io/site-40623220/content/index.html)
 &lt;/small&gt;
 
-
+&lt;/small&gt;
+[分組網站](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g2/content/index.html)
+&lt;/small&gt;
 
 </t>
 <t tx="leo.20180827201621.2"></t>
@@ -303,9 +305,11 @@ Created by [40623220](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181031172945.3">## 倉儲推送紀錄
 
-* https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g2/graphs/contributors
+* [個人倉儲](https://github.com/mdecadp2018/site-40623220/graphs/contributors)
 
-* https://github.com/scrum-1/cd2019b/graphs/contributors
+* [分組倉儲](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g2/graphs/contributors)
+
+* [全班倉儲](https://github.com/scrum-1/cd2019b/graphs/contributors)
 
 </t>
 <t tx="leo.20190106132222.1">&lt;section&gt;
@@ -329,6 +333,8 @@ Created by [40623220](http://lab.kmol.info/)
 學員出席(20%) 20分
 
 Github 倉儲管理(20%) 20分
+
+ONSHAPE協同操作(20%)：0分
 
 V-rep 模擬(20%) 11分
 
@@ -404,6 +410,8 @@ https://github.com/mdecadp2018/site-40623220/blob/gh-pages/bg2.ttt
 
 程式碼
 
-https://mdecadp2018.github.io/site-40623220/content/%E6%89%8B%E8%B6%B3%E7%90%83.html</t>
+https://mdecadp2018.github.io/site-40623220/content/%E6%89%8B%E8%B6%B3%E7%90%83.html
+
+</t>
 </tnodes>
 </leo_file>
